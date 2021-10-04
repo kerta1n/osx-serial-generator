@@ -318,7 +318,8 @@
 				<string>pci8086,2916</string>
 				<key>device-id</key>
 				<data>
-				FikA
+					<key>built-in</key>
+					<Integer>01</Integer>
 				</data>
 				<key>name</key>
 				<string>pci8086,2916</string>
